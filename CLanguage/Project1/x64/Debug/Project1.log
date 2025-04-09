@@ -1,0 +1,3 @@
+﻿  M2C.cpp
+D:\VS2022\CLanguage\Project1\M2C.cpp(119,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Project1.vcxproj -> D:\VS2022\CLanguage\x64\Debug\Project1.exe

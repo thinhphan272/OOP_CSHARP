@@ -1,0 +1,6 @@
+﻿  CNPPPPP.cpp
+D:\baitaphuit\cayNPPPPPPP\cayNPPPPPPP\CNPPPPP.cpp(230,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\baitaphuit\cayNPPPPPPP\cayNPPPPPPP\CNPPPPP.cpp(250,19): warning C4101: 'p': unreferenced local variable
+D:\baitaphuit\cayNPPPPPPP\cayNPPPPPPP\CNPPPPP.cpp(250,8): warning C4101: 'f': unreferenced local variable
+D:\baitaphuit\cayNPPPPPPP\cayNPPPPPPP\CNPPPPP.cpp(250,13): warning C4101: 'rf': unreferenced local variable
+  cayNPPPPPPP.vcxproj -> D:\baitaphuit\cayNPPPPPPP\x64\Debug\cayNPPPPPPP.exe

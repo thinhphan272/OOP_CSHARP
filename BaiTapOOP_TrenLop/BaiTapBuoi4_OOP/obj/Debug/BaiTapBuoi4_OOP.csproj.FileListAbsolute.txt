@@ -1,0 +1,7 @@
+C:\VS2022\BaiTapOOP_TrenLop\BaiTapBuoi4_OOP\bin\Debug\BaiTapBuoi4_OOP.exe.config
+C:\VS2022\BaiTapOOP_TrenLop\BaiTapBuoi4_OOP\bin\Debug\BaiTapBuoi4_OOP.exe
+C:\VS2022\BaiTapOOP_TrenLop\BaiTapBuoi4_OOP\bin\Debug\BaiTapBuoi4_OOP.pdb
+C:\VS2022\BaiTapOOP_TrenLop\BaiTapBuoi4_OOP\obj\Debug\BaiTapBuoi4_OOP.csproj.AssemblyReference.cache
+C:\VS2022\BaiTapOOP_TrenLop\BaiTapBuoi4_OOP\obj\Debug\BaiTapBuoi4_OOP.csproj.CoreCompileInputs.cache
+C:\VS2022\BaiTapOOP_TrenLop\BaiTapBuoi4_OOP\obj\Debug\BaiTapBuoi4_OOP.exe
+C:\VS2022\BaiTapOOP_TrenLop\BaiTapBuoi4_OOP\obj\Debug\BaiTapBuoi4_OOP.pdb

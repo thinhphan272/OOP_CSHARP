@@ -1,0 +1,7 @@
+C:\VS2022\ThucHanh_OOP_HUIT\Bai2_HuongDan\bin\Debug\Bai2_HuongDan.exe.config
+C:\VS2022\ThucHanh_OOP_HUIT\Bai2_HuongDan\bin\Debug\Bai2_HuongDan.exe
+C:\VS2022\ThucHanh_OOP_HUIT\Bai2_HuongDan\bin\Debug\Bai2_HuongDan.pdb
+C:\VS2022\ThucHanh_OOP_HUIT\Bai2_HuongDan\obj\Debug\Bai2_HuongDan.csproj.AssemblyReference.cache
+C:\VS2022\ThucHanh_OOP_HUIT\Bai2_HuongDan\obj\Debug\Bai2_HuongDan.csproj.CoreCompileInputs.cache
+C:\VS2022\ThucHanh_OOP_HUIT\Bai2_HuongDan\obj\Debug\Bai2_HuongDan.exe
+C:\VS2022\ThucHanh_OOP_HUIT\Bai2_HuongDan\obj\Debug\Bai2_HuongDan.pdb

@@ -1,0 +1,9 @@
+D:\VS2022\GUI_QLSinhVien\DAL_QLSinhVien\bin\Debug\DAL_QLSinhVien.dll
+D:\VS2022\GUI_QLSinhVien\DAL_QLSinhVien\bin\Debug\DAL_QLSinhVien.pdb
+D:\VS2022\GUI_QLSinhVien\DAL_QLSinhVien\bin\Debug\DTO_QLSinhVien.dll
+D:\VS2022\GUI_QLSinhVien\DAL_QLSinhVien\bin\Debug\DTO_QLSinhVien.pdb
+D:\VS2022\GUI_QLSinhVien\DAL_QLSinhVien\obj\Debug\DAL_QLSinhVien.csproj.AssemblyReference.cache
+D:\VS2022\GUI_QLSinhVien\DAL_QLSinhVien\obj\Debug\DAL_QLSinhVien.csproj.CoreCompileInputs.cache
+D:\VS2022\GUI_QLSinhVien\DAL_QLSinhVien\obj\Debug\DAL_QLSinhVien.csproj.CopyComplete
+D:\VS2022\GUI_QLSinhVien\DAL_QLSinhVien\obj\Debug\DAL_QLSinhVien.dll
+D:\VS2022\GUI_QLSinhVien\DAL_QLSinhVien\obj\Debug\DAL_QLSinhVien.pdb

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<StudentList>
+	<Student>
+		<StudentID>SV001</StudentID>
+		<LastName>Nguyễn Thị Tú</LastName>
+		<FirstName>Trinh</FirstName>
+		<Phone>0933726351</Phone>
+		<Email>ntttrinh@gmail.com</Email>
+		<AverageScore>6.27</AverageScore>
+	</Student>
+	<Student>
+		<StudentID>SV002</StudentID>
+		<LastName>Phan Sĩ</LastName>
+		<FirstName>Thịnh</FirstName>
+		<Phone>0901961921</Phone>
+		<Email>phanthinh654@gmail.com</Email>
+		<AverageScore>8.95</AverageScore>
+	</Student>
+	<Student>
+		<StudentID>SV003</StudentID>
+		<LastName>Nguyễn Thành</LastName>
+		<FirstName>Tài</FirstName>
+		<Phone>09373981267</Phone>
+		<Email>tainguyen234@gmail.com</Email>
+		<AverageScore>9.34</AverageScore>
+	</Student>
+	<Student>
+		<StudentID>SV004</StudentID>
+		<LastName>Nguyễn Quang</LastName>
+		<FirstName>Minh</FirstName>
+		<Phone>0987364386</Phone>
+		<Email>minhnguyen854@gmail.com</Email>
+		<AverageScore>7.36</AverageScore>
+	</Student>
+</StudentList>

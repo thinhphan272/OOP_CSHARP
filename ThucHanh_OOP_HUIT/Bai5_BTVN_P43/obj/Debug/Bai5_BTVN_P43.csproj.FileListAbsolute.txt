@@ -1,0 +1,14 @@
+C:\VS2022\ThucHanh_OOP_HUIT\Bai5_BTVN_P43\bin\Debug\Bai5_BTVN_P43.exe.config
+C:\VS2022\ThucHanh_OOP_HUIT\Bai5_BTVN_P43\bin\Debug\Bai5_BTVN_P43.exe
+C:\VS2022\ThucHanh_OOP_HUIT\Bai5_BTVN_P43\bin\Debug\Bai5_BTVN_P43.pdb
+C:\VS2022\ThucHanh_OOP_HUIT\Bai5_BTVN_P43\obj\Debug\Bai5_BTVN_P43.csproj.AssemblyReference.cache
+C:\VS2022\ThucHanh_OOP_HUIT\Bai5_BTVN_P43\obj\Debug\Bai5_BTVN_P43.csproj.CoreCompileInputs.cache
+C:\VS2022\ThucHanh_OOP_HUIT\Bai5_BTVN_P43\obj\Debug\Bai5_BTVN_P43.exe
+C:\VS2022\ThucHanh_OOP_HUIT\Bai5_BTVN_P43\obj\Debug\Bai5_BTVN_P43.pdb
+D:\VS2022\ThucHanh_OOP_HUIT\Bai5_BTVN_P43\bin\Debug\Bai5_BTVN_P43.exe.config
+D:\VS2022\ThucHanh_OOP_HUIT\Bai5_BTVN_P43\bin\Debug\Bai5_BTVN_P43.exe
+D:\VS2022\ThucHanh_OOP_HUIT\Bai5_BTVN_P43\bin\Debug\Bai5_BTVN_P43.pdb
+D:\VS2022\ThucHanh_OOP_HUIT\Bai5_BTVN_P43\obj\Debug\Bai5_BTVN_P43.csproj.AssemblyReference.cache
+D:\VS2022\ThucHanh_OOP_HUIT\Bai5_BTVN_P43\obj\Debug\Bai5_BTVN_P43.csproj.CoreCompileInputs.cache
+D:\VS2022\ThucHanh_OOP_HUIT\Bai5_BTVN_P43\obj\Debug\Bai5_BTVN_P43.exe
+D:\VS2022\ThucHanh_OOP_HUIT\Bai5_BTVN_P43\obj\Debug\Bai5_BTVN_P43.pdb

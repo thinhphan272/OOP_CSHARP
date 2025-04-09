@@ -1,0 +1,7 @@
+D:\VS2022\Buoi4_OOP\Buoi4_OOP\bin\Debug\Buoi4_OOP.exe.config
+D:\VS2022\Buoi4_OOP\Buoi4_OOP\bin\Debug\Buoi4_OOP.exe
+D:\VS2022\Buoi4_OOP\Buoi4_OOP\bin\Debug\Buoi4_OOP.pdb
+D:\VS2022\Buoi4_OOP\Buoi4_OOP\obj\Debug\Buoi4_OOP.csproj.AssemblyReference.cache
+D:\VS2022\Buoi4_OOP\Buoi4_OOP\obj\Debug\Buoi4_OOP.csproj.CoreCompileInputs.cache
+D:\VS2022\Buoi4_OOP\Buoi4_OOP\obj\Debug\Buoi4_OOP.exe
+D:\VS2022\Buoi4_OOP\Buoi4_OOP\obj\Debug\Buoi4_OOP.pdb

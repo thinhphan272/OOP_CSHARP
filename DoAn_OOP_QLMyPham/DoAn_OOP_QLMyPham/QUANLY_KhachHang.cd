@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DoAn_OOP_QLMyPham.SanPham">
+    <Position X="5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AhAAAIIAABCAAAAAAAEAAQBAAgEAAAIAAAAAAIBQAAA=</HashCode>
+      <FileName>SanPham.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoAn_OOP_QLMyPham.TayTrang">
+    <Position X="6.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAEAAAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>TayTrang.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DoAn_OOP_QLMyPham.KemChongNang">
+    <Position X="3.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAEAAAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>KemChongNang.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DoAn_OOP_QLMyPham.SuaRuaMat">
+    <Position X="2.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>SuaRuaMat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoAn_OOP_QLMyPham.TrangDiem">
+    <Position X="1" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>TrangDiem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoAn_OOP_QLMyPham.ChamSocDa">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>ChamSocDa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoAn_OOP_QLMyPham.DSSanPham">
+    <Position X="14" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAEBAAQAAAAAAAAAAgAAAABAAEAAQAAgA=</HashCode>
+      <FileName>DSSanPham.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoAn_OOP_QLMyPham.KhachHang">
+    <Position X="9.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAQAAAAAAAAABAAAAAEAAAAAAgAAQAAAAEEA=</HashCode>
+      <FileName>KhachHang.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoAn_OOP_QLMyPham.DSKhachHang">
+    <Position X="9.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAEAEABAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>DSKhachHang.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoAn_OOP_QLMyPham.DSTayTrang">
+    <Position X="12.75" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAACAAAAAAAAABAAAAAAAAAAAAAAAAIAAAAAAAAAAgA=</HashCode>
+      <FileName>DSTayTrang.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoAn_OOP_QLMyPham.DSKemChongNang">
+    <Position X="15.75" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAEAAAABAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>DSKemChongNang.cs</FileName>
+      <NewMemberFileName>DSTayTrang.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoAn_OOP_QLMyPham.DSTrangDiem">
+    <Position X="12.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAABABAAAAAAAAAAAAAAAAAAAAAAAAAgE=</HashCode>
+      <FileName>DSTrangDiem.cs</FileName>
+      <NewMemberFileName>DSTayTrang.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoAn_OOP_QLMyPham.DSSuaRuaMat">
+    <Position X="18" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAABAAAAAAAAABAAAAAAAAAAAAAAABAgA=</HashCode>
+      <FileName>DSSuaRuaMat.cs</FileName>
+      <NewMemberFileName>DSTayTrang.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoAn_OOP_QLMyPham.DSChamSocDa">
+    <Position X="15.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gIAAAAAAAAAAABAAAAAAAAAAAAAAgAAAAAAAAAAAAgA=</HashCode>
+      <FileName>DSChamSocDa.cs</FileName>
+      <NewMemberFileName>DSTayTrang.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoAn_OOP_QLMyPham.DanhSachSanPham">
+    <Position X="11.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>DanhSachSanPham.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="DoAn_OOP_QLMyPham.IGiamGia">
+    <Position X="7.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IGiamGia.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

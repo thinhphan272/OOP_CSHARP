@@ -1,0 +1,7 @@
+D:\VS2022\DoAn_OOP_QLMyPham\DoAn_OOP_QLMyPham\bin\Debug\DoAn_OOP_QLMyPham.exe.config
+D:\VS2022\DoAn_OOP_QLMyPham\DoAn_OOP_QLMyPham\bin\Debug\DoAn_OOP_QLMyPham.exe
+D:\VS2022\DoAn_OOP_QLMyPham\DoAn_OOP_QLMyPham\bin\Debug\DoAn_OOP_QLMyPham.pdb
+D:\VS2022\DoAn_OOP_QLMyPham\DoAn_OOP_QLMyPham\obj\Debug\DoAn_OOP_QLMyPham.csproj.AssemblyReference.cache
+D:\VS2022\DoAn_OOP_QLMyPham\DoAn_OOP_QLMyPham\obj\Debug\DoAn_OOP_QLMyPham.csproj.CoreCompileInputs.cache
+D:\VS2022\DoAn_OOP_QLMyPham\DoAn_OOP_QLMyPham\obj\Debug\DoAn_OOP_QLMyPham.exe
+D:\VS2022\DoAn_OOP_QLMyPham\DoAn_OOP_QLMyPham\obj\Debug\DoAn_OOP_QLMyPham.pdb

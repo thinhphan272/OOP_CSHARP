@@ -1,0 +1,7 @@
+C:\VS2022\ThucHanh_OOP_HUIT\ThucHanh_OOP_HUIT\bin\Debug\ThucHanh_OOP_HUIT.exe.config
+C:\VS2022\ThucHanh_OOP_HUIT\ThucHanh_OOP_HUIT\bin\Debug\ThucHanh_OOP_HUIT.exe
+C:\VS2022\ThucHanh_OOP_HUIT\ThucHanh_OOP_HUIT\bin\Debug\ThucHanh_OOP_HUIT.pdb
+C:\VS2022\ThucHanh_OOP_HUIT\ThucHanh_OOP_HUIT\obj\Debug\Bai1_HuongDan.csproj.AssemblyReference.cache
+C:\VS2022\ThucHanh_OOP_HUIT\ThucHanh_OOP_HUIT\obj\Debug\Bai1_HuongDan.csproj.CoreCompileInputs.cache
+C:\VS2022\ThucHanh_OOP_HUIT\ThucHanh_OOP_HUIT\obj\Debug\ThucHanh_OOP_HUIT.exe
+C:\VS2022\ThucHanh_OOP_HUIT\ThucHanh_OOP_HUIT\obj\Debug\ThucHanh_OOP_HUIT.pdb

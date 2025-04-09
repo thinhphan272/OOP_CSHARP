@@ -1,0 +1,7 @@
+D:\VS2022\Buoi3OOp\Buoi3OOp\bin\Debug\Buoi3OOp.exe.config
+D:\VS2022\Buoi3OOp\Buoi3OOp\bin\Debug\Buoi3OOp.exe
+D:\VS2022\Buoi3OOp\Buoi3OOp\bin\Debug\Buoi3OOp.pdb
+D:\VS2022\Buoi3OOp\Buoi3OOp\obj\Debug\Buoi3OOp.csproj.AssemblyReference.cache
+D:\VS2022\Buoi3OOp\Buoi3OOp\obj\Debug\Buoi3OOp.csproj.CoreCompileInputs.cache
+D:\VS2022\Buoi3OOp\Buoi3OOp\obj\Debug\Buoi3OOp.exe
+D:\VS2022\Buoi3OOp\Buoi3OOp\obj\Debug\Buoi3OOp.pdb

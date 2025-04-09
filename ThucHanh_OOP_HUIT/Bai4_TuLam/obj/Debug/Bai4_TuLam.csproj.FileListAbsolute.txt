@@ -1,0 +1,7 @@
+C:\VS2022\ThucHanh_OOP_HUIT\Bai4_TuLam\bin\Debug\Bai4_TuLam.exe.config
+C:\VS2022\ThucHanh_OOP_HUIT\Bai4_TuLam\bin\Debug\Bai4_TuLam.exe
+C:\VS2022\ThucHanh_OOP_HUIT\Bai4_TuLam\bin\Debug\Bai4_TuLam.pdb
+C:\VS2022\ThucHanh_OOP_HUIT\Bai4_TuLam\obj\Debug\Bai4_TuLam.csproj.AssemblyReference.cache
+C:\VS2022\ThucHanh_OOP_HUIT\Bai4_TuLam\obj\Debug\Bai4_TuLam.csproj.CoreCompileInputs.cache
+C:\VS2022\ThucHanh_OOP_HUIT\Bai4_TuLam\obj\Debug\Bai4_TuLam.exe
+C:\VS2022\ThucHanh_OOP_HUIT\Bai4_TuLam\obj\Debug\Bai4_TuLam.pdb

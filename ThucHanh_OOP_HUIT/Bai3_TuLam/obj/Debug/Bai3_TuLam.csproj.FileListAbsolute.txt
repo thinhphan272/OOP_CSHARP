@@ -1,0 +1,7 @@
+C:\VS2022\ThucHanh_OOP_HUIT\Bai3_TuLam\bin\Debug\Bai3_TuLam.exe.config
+C:\VS2022\ThucHanh_OOP_HUIT\Bai3_TuLam\bin\Debug\Bai3_TuLam.exe
+C:\VS2022\ThucHanh_OOP_HUIT\Bai3_TuLam\bin\Debug\Bai3_TuLam.pdb
+C:\VS2022\ThucHanh_OOP_HUIT\Bai3_TuLam\obj\Debug\Bai3_TuLam.csproj.AssemblyReference.cache
+C:\VS2022\ThucHanh_OOP_HUIT\Bai3_TuLam\obj\Debug\Bai3_TuLam.csproj.CoreCompileInputs.cache
+C:\VS2022\ThucHanh_OOP_HUIT\Bai3_TuLam\obj\Debug\Bai3_TuLam.exe
+C:\VS2022\ThucHanh_OOP_HUIT\Bai3_TuLam\obj\Debug\Bai3_TuLam.pdb

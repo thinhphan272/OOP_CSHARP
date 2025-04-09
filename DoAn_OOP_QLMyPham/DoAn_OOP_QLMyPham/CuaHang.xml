@@ -1,0 +1,311 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CuaHang>
+	<DSSanPham>
+		<DSKemChongNang>
+			<KemChongNang>
+				<MaSP>KCN001</MaSP>
+				<TenSP>Nivea Shine Control</TenSP>
+				<TrongLuong>20</TrongLuong>
+				<GiaBan>180000</GiaBan>
+				<XuatXu>America</XuatXu>
+				<NgaySX>20/05/2024</NgaySX>
+			</KemChongNang>
+			<KemChongNang>
+				<MaSP>KCN002</MaSP>
+				<TenSP>La-roche-posay</TenSP>
+				<TrongLuong>42</TrongLuong>
+				<GiaBan>464000</GiaBan>
+				<XuatXu>France</XuatXu>
+				<NgaySX>23/02/2024</NgaySX>
+			</KemChongNang>
+			<KemChongNang>
+				<MaSP>KCN003</MaSP>
+				<TenSP>Anessa</TenSP>
+				<TrongLuong>30</TrongLuong>
+				<GiaBan>495000</GiaBan>
+				<XuatXu>Japan</XuatXu>
+				<NgaySX>13/07/2024</NgaySX>
+			</KemChongNang>
+			<KemChongNang>
+				<MaSP>KCN004</MaSP>
+				<TenSP>Skin-Aqua</TenSP>
+				<TrongLuong>39</TrongLuong>
+				<GiaBan>147000</GiaBan>
+				<XuatXu>Japan</XuatXu>
+				<NgaySX>03/12/2024</NgaySX>
+			</KemChongNang>
+		</DSKemChongNang>
+
+		<DSTayTrang>
+			<TayTrang>
+				<MaSP>TT001</MaSP>
+				<TenSP>L'OREAL</TenSP>
+				<TrongLuong>170.3</TrongLuong>
+				<GiaBan>130000</GiaBan>
+				<XuatXu>France</XuatXu>
+				<NgaySX>23/01/2025</NgaySX>
+			</TayTrang>
+			<TayTrang>
+				<MaSP>TT002</MaSP>
+				<TenSP>Bioderma</TenSP>
+				<TrongLuong>200</TrongLuong>
+				<GiaBan>324000</GiaBan>
+				<XuatXu>France</XuatXu>
+				<NgaySX>16/03/2025</NgaySX>
+			</TayTrang>
+			<TayTrang>
+				<MaSP>TT003</MaSP>
+				<TenSP>GARNIER</TenSP>
+				<TrongLuong>115.7</TrongLuong>
+				<GiaBan>124000</GiaBan>
+				<XuatXu>France</XuatXu>
+				<NgaySX>28/02/2025</NgaySX>
+			</TayTrang>
+			<TayTrang>
+				<MaSP>TT004</MaSP>
+				<TenSP>Cocoon</TenSP>
+				<TrongLuong>146.8</TrongLuong>
+				<GiaBan>265000</GiaBan>
+				<XuatXu>VietNam</XuatXu>
+				<NgaySX>01/03/2025</NgaySX>
+			</TayTrang>
+		</DSTayTrang>
+
+		<DSSuaRuaMat>
+			<SuaRuaMat>
+				<MaSP>SRM001</MaSP>
+				<TenSP>Compliment</TenSP>
+				<TrongLuong>50.8</TrongLuong>
+				<GiaBan>88000</GiaBan>
+				<XuatXu>Russia</XuatXu>
+				<NgaySX>08/07/2024</NgaySX>
+			</SuaRuaMat>
+			<SuaRuaMat>
+				<MaSP>SRM002</MaSP>
+				<TenSP>Cetaphil</TenSP>
+				<TrongLuong>230</TrongLuong>
+				<GiaBan>330000</GiaBan>
+				<XuatXu>Canada</XuatXu>
+				<NgaySX>27/09/2024</NgaySX>
+			</SuaRuaMat>
+			<SuaRuaMat>
+				<MaSP>SRM003</MaSP>
+				<TenSP>CaraVe</TenSP>
+				<TrongLuong>300</TrongLuong>
+				<GiaBan>342000</GiaBan>
+				<XuatXu>America</XuatXu>
+				<NgaySX>05/12/2024</NgaySX>
+			</SuaRuaMat>
+			<SuaRuaMat>
+				<MaSP>SRM004</MaSP>
+				<TenSP>Simple</TenSP>
+				<TrongLuong>214</TrongLuong>
+				<GiaBan>99000</GiaBan>
+				<XuatXu>England</XuatXu>
+				<NgaySX>01/02/2025</NgaySX>
+			</SuaRuaMat>
+		</DSSuaRuaMat>
+
+		<DSTrangDiem>
+			<TrangDiem>
+				<MaSP>TD001</MaSP>
+				<TenSP>Son Dior</TenSP>
+				<TrongLuong>4.3</TrongLuong>
+				<GiaBan>895000</GiaBan>
+				<XuatXu>France</XuatXu>
+				<NgaySX>27/01/2025</NgaySX>
+			</TrangDiem>
+
+			<TrangDiem>
+				<MaSP>TD002</MaSP>
+				<TenSP>Son Maybeline</TenSP>
+				<TrongLuong>4.7</TrongLuong>
+				<GiaBan>218000</GiaBan>
+				<XuatXu>America</XuatXu>
+				<NgaySX>09/03/2024</NgaySX>
+			</TrangDiem>
+
+			<TrangDiem>
+				<MaSP>TD003</MaSP>
+				<TenSP>Mascara JudyDoll</TenSP>
+				<TrongLuong>5.5</TrongLuong>
+				<GiaBan>196000</GiaBan>
+				<XuatXu>China</XuatXu>
+				<NgaySX>12/07/2024</NgaySX>
+			</TrangDiem>
+
+			<TrangDiem>
+				<MaSP>TD004</MaSP>
+				<TenSP>Cushion Lemonade</TenSP>
+				<TrongLuong>20</TrongLuong>
+				<GiaBan>276000</GiaBan>
+				<XuatXu>VietNam</XuatXu>
+				<NgaySX>18/03/2025</NgaySX>
+			</TrangDiem>
+		</DSTrangDiem>
+
+		<DSChamSocDa>
+			<ChamSocDa>
+				<MaSP>CSD001</MaSP>
+				<TenSP>Serum GARNIER</TenSP>
+				<TrongLuong>20.8</TrongLuong>
+				<GiaBan>234000</GiaBan>
+				<XuatXu>France</XuatXu>
+				<NgaySX>16/12/2024</NgaySX>
+			</ChamSocDa>
+
+			<ChamSocDa>
+				<MaSP>CSD002</MaSP>
+				<TenSP>Toner Klairs</TenSP>
+				<TrongLuong>100.8</TrongLuong>
+				<GiaBan>235000</GiaBan>
+				<XuatXu>Korea</XuatXu>
+				<NgaySX>17/02/2025</NgaySX>
+			</ChamSocDa>
+
+			<ChamSocDa>
+				<MaSP>CSD003</MaSP>
+				<TenSP>Lotion Hada Labo</TenSP>
+				<TrongLuong>55.9</TrongLuong>
+				<GiaBan>165000</GiaBan>
+				<XuatXu>Japan</XuatXu>
+				<NgaySX>29/12/2024</NgaySX>
+			</ChamSocDa>
+
+			<ChamSocDa>
+				<MaSP>CSD004</MaSP>
+				<TenSP>Xit khoang Bio_essence</TenSP>
+				<TrongLuong>20</TrongLuong>
+				<GiaBan>175000</GiaBan>
+				<XuatXu>America</XuatXu>
+				<NgaySX>09/03/2025</NgaySX>
+			</ChamSocDa>
+		</DSChamSocDa>
+	</DSSanPham>
+	
+	<DSKhachHang>
+		<KhachHang>
+			<MaKH>KH001</MaKH>
+			<TenKH>Nguyen Van A</TenKH>
+			<SDT>0908026856</SDT>
+			<DSSanPhamDaMua>
+				<ChamSocDa>
+					<MaSP>CSD001</MaSP>
+					<TenSP>Serum GARNIER</TenSP>
+					<TrongLuong>20.8</TrongLuong>
+					<GiaBan>234000</GiaBan>
+					<XuatXu>France</XuatXu>
+					<NgaySX>16/12/2024</NgaySX>
+				</ChamSocDa>
+
+				<TrangDiem>
+					<MaSP>TD004</MaSP>
+					<TenSP>Cushion Lemonade</TenSP>
+					<TrongLuong>20</TrongLuong>
+					<GiaBan>276000</GiaBan>
+					<XuatXu>VietNam</XuatXu>
+					<NgaySX>18/03/2025</NgaySX>
+				</TrangDiem>
+
+				<TrangDiem>
+					<MaSP>TD004</MaSP>
+					<TenSP>Cushion Lemonade</TenSP>
+					<TrongLuong>20</TrongLuong>
+					<GiaBan>276000</GiaBan>
+					<XuatXu>VietNam</XuatXu>
+					<NgaySX>18/03/2025</NgaySX>
+				</TrangDiem>
+
+				<SuaRuaMat>
+					<MaSP>SRM003</MaSP>
+					<TenSP>CaraVe</TenSP>
+					<TrongLuong>300</TrongLuong>
+					<GiaBan>342000</GiaBan>
+					<XuatXu>America</XuatXu>
+					<NgaySX>05/12/2024</NgaySX>
+				</SuaRuaMat>
+			
+			</DSSanPhamDaMua>
+		</KhachHang>
+
+		<KhachHang>
+			<MaKH>KH002</MaKH>
+			<TenKH>Phan Si Thinh</TenKH>
+			<SDT>09019619921</SDT>
+			<DSSanPhamDaMua>
+				<ChamSocDa>
+					<MaSP>CSD001</MaSP>
+					<TenSP>Serum GARNIER</TenSP>
+					<TrongLuong>20.8</TrongLuong>
+					<GiaBan>234000</GiaBan>
+					<XuatXu>France</XuatXu>
+					<NgaySX>16/12/2024</NgaySX>
+				</ChamSocDa>
+
+				<ChamSocDa>
+					<MaSP>CSD002</MaSP>
+					<TenSP>Toner Klairs</TenSP>
+					<TrongLuong>100.8</TrongLuong>
+					<GiaBan>235000</GiaBan>
+					<XuatXu>Korea</XuatXu>
+					<NgaySX>17/02/2025</NgaySX>
+				</ChamSocDa>
+
+				<ChamSocDa>
+					<MaSP>CSD003</MaSP>
+					<TenSP>Lotion Hada Labo</TenSP>
+					<TrongLuong>55.9</TrongLuong>
+					<GiaBan>165000</GiaBan>
+					<XuatXu>Japan</XuatXu>
+					<NgaySX>29/12/2024</NgaySX>
+				</ChamSocDa>
+
+				<SuaRuaMat>
+					<MaSP>SRM001</MaSP>
+					<TenSP>Compliment</TenSP>
+					<TrongLuong>50.8</TrongLuong>
+					<GiaBan>88000</GiaBan>
+					<XuatXu>Russia</XuatXu>
+					<NgaySX>08/07/2024</NgaySX>
+				</SuaRuaMat>
+			</DSSanPhamDaMua>
+		</KhachHang>
+
+		<KhachHang>
+			<MaKH>KH003</MaKH>
+			<TenKH>Nguyen Quang Minh</TenKH>
+			<SDT>0978299388</SDT>
+			<DSSanPhamDaMua>
+				<SuaRuaMat>
+					<MaSP>SRM002</MaSP>
+					<TenSP>Cetaphil</TenSP>
+					<TrongLuong>230</TrongLuong>
+					<GiaBan>330000</GiaBan>
+					<XuatXu>Canada</XuatXu>
+					<NgaySX>27/09/2024</NgaySX>
+				</SuaRuaMat>
+
+				<TayTrang>
+					<MaSP>TT002</MaSP>
+					<TenSP>Bioderma</TenSP>
+					<TrongLuong>200</TrongLuong>
+					<GiaBan>324000</GiaBan>
+					<XuatXu>France</XuatXu>
+					<NgaySX>16/03/2025</NgaySX>
+				</TayTrang>
+
+				<KemChongNang>
+					<MaSP>KCN003</MaSP>
+					<TenSP>Anessa</TenSP>
+					<TrongLuong>30</TrongLuong>
+					<GiaBan>495000</GiaBan>
+					<XuatXu>Japan</XuatXu>
+					<NgaySX>13/07/2024</NgaySX>
+				</KemChongNang>
+				
+			</DSSanPhamDaMua>
+		</KhachHang>
+		
+	</DSKhachHang>
+</CuaHang>
+

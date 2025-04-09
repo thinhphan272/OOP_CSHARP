@@ -1,0 +1,7 @@
+D:\VS2022\BaiTapHDT_Buoi3\BaiTapHDT_Buoi3\bin\Debug\BaiTapHDT_Buoi3.exe.config
+D:\VS2022\BaiTapHDT_Buoi3\BaiTapHDT_Buoi3\bin\Debug\BaiTapHDT_Buoi3.exe
+D:\VS2022\BaiTapHDT_Buoi3\BaiTapHDT_Buoi3\bin\Debug\BaiTapHDT_Buoi3.pdb
+D:\VS2022\BaiTapHDT_Buoi3\BaiTapHDT_Buoi3\obj\Debug\BaiTapHDT_Buoi3.csproj.AssemblyReference.cache
+D:\VS2022\BaiTapHDT_Buoi3\BaiTapHDT_Buoi3\obj\Debug\BaiTapHDT_Buoi3.csproj.CoreCompileInputs.cache
+D:\VS2022\BaiTapHDT_Buoi3\BaiTapHDT_Buoi3\obj\Debug\BaiTapHDT_Buoi3.exe
+D:\VS2022\BaiTapHDT_Buoi3\BaiTapHDT_Buoi3\obj\Debug\BaiTapHDT_Buoi3.pdb

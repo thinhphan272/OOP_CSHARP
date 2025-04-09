@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BaiTap_Buoi06.CCaPhe">
+    <Position X="4.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAABAJABCAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CCaPhe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaiTap_Buoi06.CCaPheHat">
+    <Position X="7" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>CCaPheHat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaiTap_Buoi06.CCaPheXayNC">
+    <Position X="1.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CCaPheXayNC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaiTap_Buoi06.CCaPheXayCoHuongLieu">
+    <Position X="6.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAACAAAAAAAAEAAAAAAAAgAAAA=</HashCode>
+      <FileName>CCaPheXayCoHuongLieu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaiTap_Buoi06.CCaPheDongGoi">
+    <Position X="1.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAABAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CCaPheDongGoi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

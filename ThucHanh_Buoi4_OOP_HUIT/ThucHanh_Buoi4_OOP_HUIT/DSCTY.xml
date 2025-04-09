@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<CongTy>
+	<TenCty> ABC </TenCty>
+	<DiaChi>123 Le Thuc Hoach</DiaChi>
+	<DT>0909364748</DT>
+
+	<DSNV>
+		<NV loai ="1">
+			<MaNV>NV01</MaNV>
+			<TenNV>Hoang</TenNV>
+			<NamVaoLam>2010</NamVaoLam>
+			<HeSoLuong>3.67</HeSoLuong>
+			<SoNgayNghi>5</SoNgayNghi>
+		</NV>
+		<NV loai ="2">
+			<MaNV>NV02</MaNV>
+			<TenNV>Tai</TenNV>
+			<NamVaoLam>2018</NamVaoLam>
+			<HeSoLuong>3.9</HeSoLuong>
+			<SoNgayNghi>1</SoNgayNghi>
+			<ChucVu>Giam Doc</ChucVu>
+			<HeSoPCLD>2</HeSoPCLD>
+			<PhongBan>Tri tue Nhan Tao</PhongBan>
+		</NV>
+		<NV loai ="2">
+			<MaNV>NV03</MaNV>
+			<TenNV>Thinh</TenNV>
+			<NamVaoLam>2019</NamVaoLam>
+			<HeSoLuong>3.8</HeSoLuong>
+			<SoNgayNghi>0</SoNgayNghi>
+			<ChucVu>Giam Doc</ChucVu>
+			<HeSoPCLD>1</HeSoPCLD>
+			<PhongBan>Cong nghe Phan Mem</PhongBan>
+		</NV>
+		<NV loai ="1">
+			<MaNV>NV04</MaNV>
+			<TenNV>Huong</TenNV>
+			<NamVaoLam>2014</NamVaoLam>
+			<HeSoLuong>3.32</HeSoLuong>
+			<SoNgayNghi>3</SoNgayNghi>
+		</NV>
+	</DSNV>
+</CongTy>

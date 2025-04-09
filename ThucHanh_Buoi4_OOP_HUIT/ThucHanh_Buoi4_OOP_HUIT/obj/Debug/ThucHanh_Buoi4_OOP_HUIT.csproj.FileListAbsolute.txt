@@ -1,0 +1,7 @@
+D:\VS2022\ThucHanh_Buoi4_OOP_HUIT\ThucHanh_Buoi4_OOP_HUIT\bin\Debug\ThucHanh_Buoi4_OOP_HUIT.exe.config
+D:\VS2022\ThucHanh_Buoi4_OOP_HUIT\ThucHanh_Buoi4_OOP_HUIT\bin\Debug\ThucHanh_Buoi4_OOP_HUIT.exe
+D:\VS2022\ThucHanh_Buoi4_OOP_HUIT\ThucHanh_Buoi4_OOP_HUIT\bin\Debug\ThucHanh_Buoi4_OOP_HUIT.pdb
+D:\VS2022\ThucHanh_Buoi4_OOP_HUIT\ThucHanh_Buoi4_OOP_HUIT\obj\Debug\ThucHanh_Buoi4_OOP_HUIT.csproj.AssemblyReference.cache
+D:\VS2022\ThucHanh_Buoi4_OOP_HUIT\ThucHanh_Buoi4_OOP_HUIT\obj\Debug\ThucHanh_Buoi4_OOP_HUIT.csproj.CoreCompileInputs.cache
+D:\VS2022\ThucHanh_Buoi4_OOP_HUIT\ThucHanh_Buoi4_OOP_HUIT\obj\Debug\ThucHanh_Buoi4_OOP_HUIT.exe
+D:\VS2022\ThucHanh_Buoi4_OOP_HUIT\ThucHanh_Buoi4_OOP_HUIT\obj\Debug\ThucHanh_Buoi4_OOP_HUIT.pdb

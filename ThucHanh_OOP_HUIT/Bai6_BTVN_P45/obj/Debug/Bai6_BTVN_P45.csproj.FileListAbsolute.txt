@@ -1,0 +1,7 @@
+D:\VS2022\ThucHanh_OOP_HUIT\Bai6_BTVN_P45\obj\Debug\Bai6_BTVN_P45.csproj.AssemblyReference.cache
+D:\VS2022\ThucHanh_OOP_HUIT\Bai6_BTVN_P45\obj\Debug\Bai6_BTVN_P45.csproj.CoreCompileInputs.cache
+D:\VS2022\ThucHanh_OOP_HUIT\Bai6_BTVN_P45\bin\Debug\Bai6_BTVN_P45.exe.config
+D:\VS2022\ThucHanh_OOP_HUIT\Bai6_BTVN_P45\bin\Debug\Bai6_BTVN_P45.exe
+D:\VS2022\ThucHanh_OOP_HUIT\Bai6_BTVN_P45\bin\Debug\Bai6_BTVN_P45.pdb
+D:\VS2022\ThucHanh_OOP_HUIT\Bai6_BTVN_P45\obj\Debug\Bai6_BTVN_P45.exe
+D:\VS2022\ThucHanh_OOP_HUIT\Bai6_BTVN_P45\obj\Debug\Bai6_BTVN_P45.pdb

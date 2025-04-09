@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<HoaDon>
+  <TenKhachHang> Hung Thinh </TenKhachHang>
+  <DiaChi>140 Le Trong Tan </DiaChi>
+  <NgayMua>25/03/2025</NgayMua>
+  <DSCTSP>
+    <Sanpham>
+      <MaSP>SP020</MaSP>
+      <TenSP>Tra Oolong</TenSP>
+      <DonGia>200000</DonGia>
+      <SoLuong>30</SoLuong>
+      <Loai>tra</Loai>
+    </Sanpham>
+    <Sanpham>
+      <MaSP>SP010</MaSP>
+      <TenSP>Tra Lai</TenSP>
+      <DonGia>120000</DonGia>
+      <SoLuong>70</SoLuong>
+      <Loai>tra</Loai>
+    </Sanpham>
+    <Sanpham>
+      <MaSP>SP023</MaSP>
+      <TenSP>Tra hoa cuc</TenSP>
+      <DonGia>50000</DonGia>
+      <SoLuong>10</SoLuong>
+      <Loai>tra</Loai>
+    </Sanpham>
+    <Sanpham>
+      <MaSP>SP013</MaSP>
+      <TenSP>Coffe truyen thong</TenSP>
+      <DonGia>110000</DonGia>
+      <SoLuong>100</SoLuong>
+      <Loai>coffe</Loai>
+    </Sanpham>
+    <Sanpham>
+      <MaSP>SP003</MaSP>
+      <TenSP>Coffe Culi</TenSP>
+      <DonGia>500000</DonGia>
+      <SoLuong>80</SoLuong>
+      <Loai>coffe</Loai>
+    </Sanpham>
+    <Sanpham>
+      <MaSP>SP002</MaSP>
+      <TenSP>Coffe rosta</TenSP>
+      <DonGia>300000</DonGia>
+      <SoLuong>10</SoLuong>
+      <Loai>coffe</Loai>
+    </Sanpham>
+  </DSCTSP>
+</HoaDon>
