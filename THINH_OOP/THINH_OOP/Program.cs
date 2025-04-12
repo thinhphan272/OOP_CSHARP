@@ -10,6 +10,7 @@ namespace THINH_OOP
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
