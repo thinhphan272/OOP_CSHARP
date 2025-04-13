@@ -1,0 +1,7 @@
+C:\C\OOP_Study\THINH_OOP\THINH_OOP\bin\Debug\THINH_OOP.exe.config
+C:\C\OOP_Study\THINH_OOP\THINH_OOP\bin\Debug\THINH_OOP.exe
+C:\C\OOP_Study\THINH_OOP\THINH_OOP\bin\Debug\THINH_OOP.pdb
+C:\C\OOP_Study\THINH_OOP\THINH_OOP\obj\Debug\THINH_OOP.csproj.AssemblyReference.cache
+C:\C\OOP_Study\THINH_OOP\THINH_OOP\obj\Debug\THINH_OOP.csproj.CoreCompileInputs.cache
+C:\C\OOP_Study\THINH_OOP\THINH_OOP\obj\Debug\THINH_OOP.exe
+C:\C\OOP_Study\THINH_OOP\THINH_OOP\obj\Debug\THINH_OOP.pdb

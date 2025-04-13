@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<CongTy>
+	<TenCTY>Công Ty ABC</TenCTY>
+	<DiaChi>140 Lê Trọng Tấn</DiaChi>
+	<SDT>0938468346</SDT>
+	
+	<NhanVien>
+		<Loai>1</Loai>
+		<MaNV>SX001</MaNV>
+		<TenNV>Nguyễn Quang Minh</TenNV>
+		<NamSinh>1984</NamSinh>
+		<GioiTinh>Nam</GioiTinh>
+		<HeSoLuong>3.1</HeSoLuong>
+		<NamVL>2015</NamVL>
+		<SoNN>1</SoNN>
+	</NhanVien>
+
+	<NhanVien>
+		<Loai>1</Loai>
+		<MaNV>SX002</MaNV>
+		<TenNV>Trần Minh Hiếu</TenNV>
+		<NamSinh>1999</NamSinh>
+		<GioiTinh>Nam</GioiTinh>
+		<HeSoLuong>3.23</HeSoLuong>
+		<NamVL>2017</NamVL>
+		<SoNN>3</SoNN>
+	</NhanVien>
+
+	<NhanVien>
+		<Loai>2</Loai>
+		<MaNV>KD001</MaNV>
+		<TenNV>Nguyễn Thị Lan</TenNV>
+		<NamSinh>1995</NamSinh>
+		<GioiTinh>Nữ</GioiTinh>
+		<HeSoLuong>3.2</HeSoLuong>
+		<NamVL>2018</NamVL>
+		<DSToiThieu>2500000</DSToiThieu>
+		<DSThucTe>4600000</DSThucTe>
+	</NhanVien>
+
+	<NhanVien>
+		<Loai>2</Loai>
+		<MaNV>KD002</MaNV>
+		<TenNV>Tăng Mỹ Hàn</TenNV>
+		<NamSinh>1990</NamSinh>
+		<GioiTinh>Nữ</GioiTinh>
+		<HeSoLuong>3.26</HeSoLuong>
+		<NamVL>2020</NamVL>
+		<DSToiThieu>2500000</DSToiThieu>
+		<DSThucTe>4500000</DSThucTe>
+	</NhanVien>
+
+	<NhanVien>
+		<Loai>3</Loai>
+		<MaNV>CB001</MaNV>
+		<TenNV>Phan Sĩ Thịnh</TenNV>
+		<NamSinh>2000</NamSinh>
+		<GioiTinh>Nam</GioiTinh>
+		<HeSoLuong>3.78</HeSoLuong>
+		<NamVL>2019</NamVL>
+		<ChucVu>Giám đốc</ChucVu>
+		<HeSoCV>2.5</HeSoCV>
+	</NhanVien>
+
+	<NhanVien>
+		<Loai>3</Loai>
+		<MaNV>CB002</MaNV>
+		<TenNV>Nguyễn Thành Tài</TenNV>
+		<NamSinh>1991</NamSinh>
+		<GioiTinh>Nam</GioiTinh>
+		<HeSoLuong>3.78</HeSoLuong>
+		<NamVL>2013</NamVL>
+		<ChucVu>Tổng giám đốc</ChucVu>
+		<HeSoCV>3.5</HeSoCV>
+	</NhanVien>
+	
+</CongTy>

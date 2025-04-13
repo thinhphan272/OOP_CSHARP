@@ -75,8 +75,31 @@ namespace THINH_OOP
             HeSoLg = heSoLg;
             NamVL = namVL;
         }
-
+        public static double LuongCB = 2340000;
+        public abstract double Luong();    
         public abstract char XepLoai();
+
+        public double PCTN()
+        {
+            return (double)((DateTime.Today.Year - namVL) / 100) * LuongCB;
+        }    
+        public double thuNhap()
+        {
+            if(XepLoai() == 'A')
+                return Luong() + PCTN();
+            else if(XepLoai() == 'B')
+                return 0.75 * Luong() + PCTN();
+            else if(XepLoai() == 'C')
+                return 0.5 * Luong() + PCTN();
+            else
+                return PCTN();
+
+        }
+
+        public virtual void Xuat()
+        {
+            Console.WriteLine("| {0, -10} | {1, -20} | {2, -10} | {3, -10} | {4, -15} | {5, -15} | {6, -10} | {7, -10} |", MaNV, TenNV, NamSinh, GioiTinh, HeSoLg, NamVL, XepLoai(), Luong());
+        }
 
     }
 }

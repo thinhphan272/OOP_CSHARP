@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{F435BFF3-D839-41B4-A027-9138AEAF3FD6}</ProjectGuid>
+    <ProjectGuid>{7274DAEA-1B6C-4B70-9972-3101DF84384D}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>THINH_OOP</RootNamespace>
-    <AssemblyName>THINH_OOP</AssemblyName>
+    <RootNamespace>Bai2_SVTuLam</RootNamespace>
+    <AssemblyName>Bai2_SVTuLam</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,11 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CanBo.cs" />
-    <Compile Include="CongTyABC.cs" />
-    <Compile Include="NhanVienABC.cs" />
-    <Compile Include="NhanVienKD.cs" />
-    <Compile Include="NhanVienSX.cs" />
+    <Compile Include="CongTy.cs" />
+    <Compile Include="HD_DaiLyCap1.cs" />
+    <Compile Include="HD_KhachHangCaNhan.cs" />
+    <Compile Include="HD_KHCongTy.cs" />
+    <Compile Include="HoaDon.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -55,7 +55,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="XMLFile1.xml" />
+    <Content Include="QL_HoaDon.xml" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

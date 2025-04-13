@@ -10,7 +10,16 @@ namespace THINH_OOP
     {
         static void Main(string[] args)
         {
+            Console.OutputEncoding = Encoding.UTF8;
 
+            CongTyABC dsnv = new CongTyABC();
+            dsnv.Nhap_XML(@"..\..\XMLFile1.xml");
+
+            dsnv.XuatDS();
+
+            Console.WriteLine("Tổng thu nhập của công ty: {0}",dsnv.TongThuNhap());
+
+            Console.ReadLine();
         }
     }
 }

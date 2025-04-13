@@ -1,0 +1,7 @@
+C:\C\OOP_Study\THINH_OOP\Bai2_SVTuLam\obj\Debug\Bai2_SVTuLam.csproj.AssemblyReference.cache
+C:\C\OOP_Study\THINH_OOP\Bai2_SVTuLam\obj\Debug\Bai2_SVTuLam.csproj.CoreCompileInputs.cache
+C:\C\OOP_Study\THINH_OOP\Bai2_SVTuLam\bin\Debug\Bai2_SVTuLam.exe.config
+C:\C\OOP_Study\THINH_OOP\Bai2_SVTuLam\bin\Debug\Bai2_SVTuLam.exe
+C:\C\OOP_Study\THINH_OOP\Bai2_SVTuLam\bin\Debug\Bai2_SVTuLam.pdb
+C:\C\OOP_Study\THINH_OOP\Bai2_SVTuLam\obj\Debug\Bai2_SVTuLam.exe
+C:\C\OOP_Study\THINH_OOP\Bai2_SVTuLam\obj\Debug\Bai2_SVTuLam.pdb

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<CongTy>
+	<TenCTY>Công ty ABC</TenCTY>
+	<DiaChi>140 Lê Trọng Tấn</DiaChi>
+	<DienThoai>0238365742</DienThoai>
+
+	<HoaDon>
+		<Loai>1</Loai>
+		<MaKH>KH001</MaKH>
+		<TenKH>Nguyễn Thị Mỹ Duyên</TenKH>
+		<SoLuong>1</SoLuong>
+		<GiaBan>3640000</GiaBan>
+		<KhoangCachGH>11,7</KhoangCachGH>
+	</HoaDon>
+
+	<HoaDon>
+		<Loai>2</Loai>
+		<MaKH>KH002</MaKH>
+		<TenKH>Đại Lý Văn Tèo</TenKH>
+		<SoLuong>100</SoLuong>
+		<GiaBan>15000000</GiaBan>
+		<TGHopTac>5</TGHopTac>
+	</HoaDon>
+
+	<HoaDon>
+		<Loai>3</Loai>
+		<MaKH>KH003</MaKH>
+		<TenKH>Công Ty VinGroup</TenKH>
+		<SoLuong>1000</SoLuong>
+		<GiaBan>23400000</GiaBan>
+		<SoLuongNV>20000</SoLuongNV>
+	</HoaDon>
+	
+	
+</CongTy>
