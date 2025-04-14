@@ -1,0 +1,7 @@
+C:\C\OOP_Study\THINH_OOP\BaiTap3_VeNha\bin\Debug\BaiTap3_VeNha.exe.config
+C:\C\OOP_Study\THINH_OOP\BaiTap3_VeNha\bin\Debug\BaiTap3_VeNha.exe
+C:\C\OOP_Study\THINH_OOP\BaiTap3_VeNha\bin\Debug\BaiTap3_VeNha.pdb
+C:\C\OOP_Study\THINH_OOP\BaiTap3_VeNha\obj\Debug\BaiTap3_VeNha.csproj.AssemblyReference.cache
+C:\C\OOP_Study\THINH_OOP\BaiTap3_VeNha\obj\Debug\BaiTap3_VeNha.csproj.CoreCompileInputs.cache
+C:\C\OOP_Study\THINH_OOP\BaiTap3_VeNha\obj\Debug\BaiTap3_VeNha.exe
+C:\C\OOP_Study\THINH_OOP\BaiTap3_VeNha\obj\Debug\BaiTap3_VeNha.pdb

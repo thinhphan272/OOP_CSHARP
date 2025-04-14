@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<DanhSachMonHoc>
+	<TenSV>Phan Sĩ Thịnh</TenSV>
+	<MaSV>2001230933</MaSV>
+	<MonHoc>
+		<Loai>1</Loai>
+		<MaMH>MH001</MaMH>
+		<TenMH>Cơ Sở Dữ Liệu</TenMH>
+		<SoTC>3</SoTC>
+		<KhoaPT>Khoa Công Nghệ Thông Tin</KhoaPT>
+		<DiemTieuLuan>9</DiemTieuLuan>
+		<DiemGiuaKy>9.5</DiemGiuaKy>
+		<DiemCuoiKy>8.75</DiemCuoiKy>
+	</MonHoc>
+
+	<MonHoc>
+		<Loai>2</Loai>
+		<MaMH>MH002</MaMH>
+		<TenMH>Thực Hành OOP</TenMH>
+		<SoTC>1</SoTC>
+		<KhoaPT>Khoa Công Nghệ Thông Tin</KhoaPT>
+		<Cot1>8.5</Cot1>
+		<Cot2>8.25</Cot2>
+		<Cot3>9.25</Cot3>
+		<Cot4>10</Cot4>
+	</MonHoc>
+
+	<MonHoc>
+		<Loai>3</Loai>
+		<MaMH>MH003</MaMH>
+		<TenMH>CTDL và GT</TenMH>
+		<SoTC>1</SoTC>
+		<KhoaPT>Khoa Công Nghệ Thông Tin</KhoaPT>
+		<DiemGVHD>9.5</DiemGVHD>
+		<DiemGVPB>8.5</DiemGVPB>
+		
+	</MonHoc>
+	
+</DanhSachMonHoc>

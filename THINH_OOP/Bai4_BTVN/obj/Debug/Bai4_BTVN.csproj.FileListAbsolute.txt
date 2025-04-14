@@ -1,0 +1,7 @@
+C:\C\OOP_Study\THINH_OOP\Bai4_BTVN\bin\Debug\Bai4_BTVN.exe.config
+C:\C\OOP_Study\THINH_OOP\Bai4_BTVN\bin\Debug\Bai4_BTVN.exe
+C:\C\OOP_Study\THINH_OOP\Bai4_BTVN\bin\Debug\Bai4_BTVN.pdb
+C:\C\OOP_Study\THINH_OOP\Bai4_BTVN\obj\Debug\Bai4_BTVN.csproj.AssemblyReference.cache
+C:\C\OOP_Study\THINH_OOP\Bai4_BTVN\obj\Debug\Bai4_BTVN.csproj.CoreCompileInputs.cache
+C:\C\OOP_Study\THINH_OOP\Bai4_BTVN\obj\Debug\Bai4_BTVN.exe
+C:\C\OOP_Study\THINH_OOP\Bai4_BTVN\obj\Debug\Bai4_BTVN.pdb
