@@ -1,0 +1,7 @@
+D:\OOP_STUDY\THINH_OOP\Bai5_Interface\bin\Debug\Bai5_Interface.exe.config
+D:\OOP_STUDY\THINH_OOP\Bai5_Interface\bin\Debug\Bai5_Interface.exe
+D:\OOP_STUDY\THINH_OOP\Bai5_Interface\bin\Debug\Bai5_Interface.pdb
+D:\OOP_STUDY\THINH_OOP\Bai5_Interface\obj\Debug\Bai5_Interface.csproj.AssemblyReference.cache
+D:\OOP_STUDY\THINH_OOP\Bai5_Interface\obj\Debug\Bai5_Interface.csproj.CoreCompileInputs.cache
+D:\OOP_STUDY\THINH_OOP\Bai5_Interface\obj\Debug\Bai5_Interface.exe
+D:\OOP_STUDY\THINH_OOP\Bai5_Interface\obj\Debug\Bai5_Interface.pdb

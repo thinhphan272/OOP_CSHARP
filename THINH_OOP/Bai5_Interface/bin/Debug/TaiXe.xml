@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DanhSachTaiXe>
+  <TaiXe>
+    <Username>taixe1</Username>
+    <Password>123</Password>
+    <SoDienThoai>0912345680</SoDienThoai>
+    <MaSo>TX001</MaSo>
+    <TenTaiXe>Nguyễn Văn A</TenTaiXe>
+    <HinhThucXe>XeMay</HinhThucXe>
+    <DoanhThuNgay>1500000</DoanhThuNgay>
+  </TaiXe>
+  <TaiXe>
+    <Username>taixe2</Username>
+    <Password>123</Password>
+    <SoDienThoai>0912345681</SoDienThoai>
+    <MaSo>TX002</MaSo>
+    <TenTaiXe>Nguyễn Văn B</TenTaiXe>
+    <HinhThucXe>OTo</HinhThucXe>
+    <SoChoNgoi>4</SoChoNgoi>
+    <DoanhThuNgay>2500000</DoanhThuNgay>
+  </TaiXe>
+  <TaiXe>
+    <Username>taixe3</Username>
+    <Password>123</Password>
+    <SoDienThoai>0912345682</SoDienThoai>
+    <MaSo>TX003</MaSo>
+    <TenTaiXe>Nguyễn Văn C</TenTaiXe>
+    <HinhThucXe>OToTai</HinhThucXe>
+    <TrongTai>5</TrongTai>
+    <DoanhThuNgay>3500000</DoanhThuNgay>
+  </TaiXe>
+</DanhSachTaiXe>

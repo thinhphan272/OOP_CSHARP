@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<DanhSachKhachHang>
+	<KhachHang>
+		<Username>khach1</Username>
+		<Password>123</Password>
+		<SoDienThoai>0912345678</SoDienThoai>
+		<LoaiKhach>Thuong</LoaiKhach>
+		<SoChuyenDaDi>5</SoChuyenDaDi>
+	</KhachHang>
+	<KhachHang>
+		<Username>khach2</Username>
+		<Password>123</Password>
+		<SoDienThoai>0912345679</SoDienThoai>
+		<LoaiKhach>VIP</LoaiKhach>
+		<SoChuyenDaDi>12</SoChuyenDaDi>
+	</KhachHang>
+</DanhSachKhachHang>
