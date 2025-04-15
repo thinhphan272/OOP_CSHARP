@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{089CC24E-6DCE-4660-8824-98BCCEEDEFD3}</ProjectGuid>
+    <ProjectGuid>{BD58F804-F9E4-417A-AB55-2ABC5BAB22E1}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Bai4_BTVN</RootNamespace>
-    <AssemblyName>Bai4_BTVN</AssemblyName>
+    <RootNamespace>Bai5_Interface</RootNamespace>
+    <AssemblyName>Bai5_Interface</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,20 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CuaHangXangDau.cs" />
-    <Compile Include="HD_ThanThiet.cs" />
-    <Compile Include="HD_VangLai.cs" />
-    <Compile Include="HD_VIP.cs" />
-    <Compile Include="HoaDon.cs" />
-    <Compile Include="MatHang.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TaiKhoan.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="XMLFile1.xml" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<CuaHang>
+	<HoaDon>
+		<Loai>1</Loai>
+		<MaSo>KH001</MaSo>
+		<HoTenKhach>Nguyễn Văn A</HoTenKhach>
+		<NgayLap>26/03/2024</NgayLap>
+		<MatHang>
+			<MaHang>SP001</MaHang>
+			<TenHang>Xăng PETRO</TenHang>
+			<GiaBan>25000</GiaBan>
+		</MatHang>
+		<SoLuong>41</SoLuong>
+	</HoaDon>
+
+	<HoaDon>
+		<Loai>1</Loai>
+		<MaSo>KH005</MaSo>
+		<HoTenKhach>Nguyễn Văn B</HoTenKhach>
+		<NgayLap>26/03/2024</NgayLap>
+		<MatHang>
+			<MaHang>SP001</MaHang>
+			<TenHang>Xăng PETRO</TenHang>
+			<GiaBan>25000</GiaBan>
+		</MatHang>
+		<SoLuong>41</SoLuong>
+	</HoaDon>
+
+	<HoaDon>
+		<Loai>2</Loai>
+		<MaSo>KH002</MaSo>
+		<HoTenKhach>Trần Minh Hiếu</HoTenKhach>
+		<NgayLap>13/04/2025</NgayLap>
+		<MatHang>
+			<MaHang>SP002</MaHang>
+			<TenHang>Xăng Eflo</TenHang>
+			<GiaBan>23000</GiaBan>
+		</MatHang>
+		<SoLuong>50</SoLuong>
+	</HoaDon>
+
+	<HoaDon>
+		<Loai>3</Loai>
+		<MaSo>KH003</MaSo>
+		<HoTenKhach>Tăng Mỹ Hàn</HoTenKhach>
+		<NgayLap>01/02/2025</NgayLap>
+		<MatHang>
+			<MaHang>SP003</MaHang>
+			<TenHang>Xăng Autro</TenHang>
+			<GiaBan>24000</GiaBan>
+		</MatHang>
+		<SoLuong>40</SoLuong>
+	</HoaDon>
+	
+	
+</CuaHang>

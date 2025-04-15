@@ -76,7 +76,7 @@ namespace Bai4_BTVN
 
         public virtual void Xuat()
         {
-            Console.WriteLine("| {0, -10} | {1, -25} | {2, -10} | {3, -6} |", maSo, hoTenKhach, ngayLap, soLuong);
+            Console.WriteLine("\n| {0, -10} | {1, -25} | {2, -10} | {3, -6} | {4, -15} |", maSo, hoTenKhach, ngayLap, soLuong, tinhTriGia());
             Console.WriteLine("------Mặt hàng------");
             Console.WriteLine("| {0, -10} | {1, -25} | {2, -10} |", MatHang.MaHang, MatHang.TenHang, MatHang.GiaBan);
         }    

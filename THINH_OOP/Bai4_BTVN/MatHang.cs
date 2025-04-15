@@ -15,7 +15,11 @@ namespace Bai4_BTVN
         public string MaHang
         {
             get { return maHang; }
-            set { maHang = value; }
+            set 
+            {
+               
+                maHang = value; 
+            }
         }
 
         public string TenHang

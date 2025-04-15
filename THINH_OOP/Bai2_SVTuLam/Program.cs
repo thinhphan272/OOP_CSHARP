@@ -41,7 +41,7 @@ namespace Bai2_SVTuLam
 
             Console.WriteLine("\nSắp xếp danh sách tăng dần theo số lượng, số lượng bằng thì giảm dần theo thành tiền\n");
             List<HoaDon> ds2 = dshd.SapXepDSTangDan();
-            dshd.SapXepDSTangDan();
+            
             foreach(HoaDon y in ds2 )
             {
                 y.Xuat();
@@ -66,7 +66,7 @@ namespace Bai2_SVTuLam
             else
                 Console.WriteLine("Khách hàng lạ!");
 
-
+            
             Console.ReadLine();
         }
     }

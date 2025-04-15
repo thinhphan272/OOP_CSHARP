@@ -4,10 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Bai4_BTVN
+namespace Bai5_Interface
 {
-    internal class Class1
+    internal class Program
     {
-
+        static void Main(string[] args)
+        {
+        }
     }
 }
